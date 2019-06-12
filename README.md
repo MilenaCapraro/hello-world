@@ -6,3 +6,5 @@ O clássico Hello World
 ![Logo do Guia Hello World](https://github.com/MilenaCapraro/hello-world/blob/edi%C3%A7%C3%B5es-no-readme/helloworld.PNG "Guia Hello World")
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
+
+[:blue_heart:](https://gist.github.com/rxaviers/7360908)
